@@ -1,4 +1,4 @@
-season1_yds = float(input('S1 Yards: '))
+season1_yds = float(input('Season 1 Yards: '))
 season1_tds = int(input('S1 tds: '))
 season1_int = int(input('S1 ints: '))
 
